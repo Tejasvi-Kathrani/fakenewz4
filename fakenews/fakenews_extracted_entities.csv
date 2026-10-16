@@ -1,0 +1,1315 @@
+news_id,label,entity,entity_type,entity_category
+2,Real,Chittagong,GPE,Locations
+3,Fake,Breakthrough,PERSON,People
+3,Fake,Bangladesh,GPE,Locations
+6,Fake,Chittagong,GPE,Locations
+9,Fake,Chittagong,GPE,Locations
+13,Real,Chittagong,GPE,Locations
+14,Real,the moon Government,ORG,Organizations
+19,Real,Bangladesh,GPE,Locations
+21,Fake,Bangladesh,GPE,Locations
+22,Real,Chittagong,GPE,Locations
+22,Real,Uncertainty,ORG,Organizations
+23,Fake,Chittagong,GPE,Locations
+23,Fake,Uncertainty,ORG,Organizations
+24,Real,Breakthrough,PERSON,People
+24,Real,Bangladesh,GPE,Locations
+26,Real,Breakthrough,PERSON,People
+26,Real,Bangladesh,GPE,Locations
+27,Fake,Chittagong,GPE,Locations
+28,Fake,Breakthrough,PERSON,People
+28,Fake,Bangladesh,GPE,Locations
+31,Fake,Dhaka Local,ORG,Organizations
+32,Real,Bangladesh,GPE,Locations
+33,Real,Chittagong,GPE,Locations
+37,Real,Bangladesh,GPE,Locations
+38,Real,Bangladesh,GPE,Locations
+44,Real,Bangladesh,GPE,Locations
+46,Real,Bangladesh,GPE,Locations
+48,Fake,Bangladesh,GPE,Locations
+49,Fake,the moon Government,ORG,Organizations
+50,Real,Bangladesh,GPE,Locations
+51,Fake,Breakthrough,PERSON,People
+51,Fake,Bangladesh,GPE,Locations
+53,Fake,Bangladesh,GPE,Locations
+54,Fake,Chittagong,GPE,Locations
+56,Real,Chittagong,GPE,Locations
+61,Real,Dhaka Uncertainty,ORG,Organizations
+64,Fake,Bangladesh,GPE,Locations
+65,Real,Bangladesh,GPE,Locations
+66,Real,Chittagong,GPE,Locations
+67,Fake,Chittagong,GPE,Locations
+71,Fake,Chittagong,GPE,Locations
+76,Real,Chittagong,GPE,Locations
+77,Real,Dhaka Local,ORG,Organizations
+78,Real,Chittagong,GPE,Locations
+79,Fake,Chittagong,GPE,Locations
+82,Fake,Dhaka Incidents,ORG,Organizations
+83,Real,Chittagong,GPE,Locations
+84,Real,Dhaka,GPE,Locations
+85,Real,Chittagong,GPE,Locations
+87,Fake,Bangladesh,GPE,Locations
+89,Fake,Breakthrough,PERSON,People
+89,Fake,Bangladesh,GPE,Locations
+90,Fake,Chittagong,GPE,Locations
+92,Fake,Bangladesh,GPE,Locations
+95,Fake,Chittagong,GPE,Locations
+97,Fake,Breakthrough,PERSON,People
+97,Fake,Bangladesh,GPE,Locations
+101,Real,Bangladesh,GPE,Locations
+103,Real,Chittagong,GPE,Locations
+106,Fake,Bangladesh,GPE,Locations
+109,Fake,Dhaka Experts,ORG,Organizations
+113,Fake,Dhaka Uncertainty,ORG,Organizations
+114,Real,Chittagong,GPE,Locations
+116,Real,Bangladesh,GPE,Locations
+118,Real,Bangladesh,GPE,Locations
+120,Real,Bangladesh,GPE,Locations
+121,Fake,Bangladesh,GPE,Locations
+124,Fake,Dhaka Incidents,ORG,Organizations
+127,Fake,Breakthrough,PERSON,People
+127,Fake,Bangladesh,GPE,Locations
+129,Fake,the moon Doctors,ORG,Organizations
+131,Fake,Bangladesh,GPE,Locations
+133,Real,Bangladesh,GPE,Locations
+137,Fake,Dhaka Government,ORG,Organizations
+138,Real,the moon Uncertainty,LOC,Locations
+139,Fake,the moon Government,ORG,Organizations
+141,Fake,Breakthrough,PERSON,People
+141,Fake,Bangladesh,GPE,Locations
+148,Fake,Bangladesh,GPE,Locations
+153,Real,Chittagong,GPE,Locations
+155,Real,Bangladesh,GPE,Locations
+159,Real,Bangladesh,GPE,Locations
+160,Real,Dhaka,GPE,Locations
+161,Real,Dhaka,GPE,Locations
+163,Fake,Uncertainty,ORG,Organizations
+165,Fake,Bangladesh,GPE,Locations
+167,Fake,Breakthrough,PERSON,People
+167,Fake,Bangladesh,GPE,Locations
+170,Fake,Bangladesh,GPE,Locations
+172,Real,Chittagong,GPE,Locations
+173,Real,Breakthrough,PERSON,People
+173,Real,Bangladesh,GPE,Locations
+174,Fake,Breakthrough,PERSON,People
+174,Fake,Bangladesh,GPE,Locations
+176,Fake,Breakthrough,PERSON,People
+176,Fake,Bangladesh,GPE,Locations
+181,Real,Breakthrough,PERSON,People
+181,Real,Bangladesh,GPE,Locations
+182,Real,Bangladesh,GPE,Locations
+183,Real,Breakthrough,PERSON,People
+183,Real,Bangladesh,GPE,Locations
+184,Real,Dhaka,GPE,Locations
+186,Fake,Breakthrough,PERSON,People
+186,Fake,Bangladesh,GPE,Locations
+189,Real,Bangladesh,GPE,Locations
+191,Real,Chittagong,GPE,Locations
+192,Real,Dhaka Local,ORG,Organizations
+193,Real,Local,ORG,Organizations
+194,Fake,the moon Doctors,ORG,Organizations
+198,Fake,the moon Uncertainty,LOC,Locations
+199,Fake,Chittagong,GPE,Locations
+199,Fake,Uncertainty,ORG,Organizations
+201,Real,the moon Local,ORG,Organizations
+202,Fake,Dhaka Incidents,ORG,Organizations
+203,Real,Bangladesh,GPE,Locations
+205,Real,Bangladesh,GPE,Locations
+206,Fake,the moon Uncertainty,LOC,Locations
+207,Real,Breakthrough,PERSON,People
+207,Real,Bangladesh,GPE,Locations
+208,Fake,Dhaka Doctors,ORG,Organizations
+210,Real,Breakthrough,PERSON,People
+210,Real,Bangladesh,GPE,Locations
+212,Fake,Chittagong,GPE,Locations
+212,Fake,Uncertainty,ORG,Organizations
+215,Real,Breakthrough,PERSON,People
+215,Real,Bangladesh,GPE,Locations
+216,Real,the moon Doctors,ORG,Organizations
+221,Fake,Dhaka,GPE,Locations
+222,Fake,Dhaka,GPE,Locations
+226,Real,Bangladesh,GPE,Locations
+227,Real,Bangladesh,GPE,Locations
+228,Real,Breakthrough,PERSON,People
+228,Real,Bangladesh,GPE,Locations
+230,Fake,Dhaka Uncertainty,ORG,Organizations
+235,Real,Dhaka Doctors,ORG,Organizations
+237,Real,the moon Local,ORG,Organizations
+240,Real,the moon Uncertainty,LOC,Locations
+244,Fake,Bangladesh,GPE,Locations
+245,Fake,Chittagong,GPE,Locations
+249,Real,Bangladesh,GPE,Locations
+251,Fake,Dhaka Incidents,ORG,Organizations
+252,Fake,Breakthrough,PERSON,People
+252,Fake,Bangladesh,GPE,Locations
+259,Real,Dhaka Experts,ORG,Organizations
+260,Real,Dhaka Experts,ORG,Organizations
+261,Real,Chittagong,GPE,Locations
+262,Real,Breakthrough,PERSON,People
+262,Real,Bangladesh,GPE,Locations
+265,Real,Bangladesh,GPE,Locations
+268,Fake,Breakthrough,PERSON,People
+268,Fake,Bangladesh,GPE,Locations
+269,Real,Dhaka Government,ORG,Organizations
+271,Real,Bangladesh,GPE,Locations
+272,Fake,Breakthrough,PERSON,People
+272,Fake,Bangladesh,GPE,Locations
+274,Fake,Bangladesh,GPE,Locations
+275,Real,Dhaka Uncertainty,ORG,Organizations
+276,Fake,Bangladesh,GPE,Locations
+277,Fake,Dhaka Uncertainty,ORG,Organizations
+279,Fake,Chittagong,GPE,Locations
+283,Fake,Breakthrough,PERSON,People
+283,Fake,Bangladesh,GPE,Locations
+285,Fake,the moon Uncertainty,LOC,Locations
+287,Real,Chittagong,GPE,Locations
+288,Real,Bangladesh,GPE,Locations
+289,Real,Bangladesh,GPE,Locations
+290,Fake,the moon Doctors,ORG,Organizations
+291,Fake,the moon Uncertainty,LOC,Locations
+292,Real,Uncertainty,ORG,Organizations
+293,Real,Bangladesh,GPE,Locations
+294,Fake,Bangladesh,GPE,Locations
+295,Fake,Chittagong,GPE,Locations
+296,Fake,Dhaka Government,ORG,Organizations
+297,Fake,Local,ORG,Organizations
+299,Real,Breakthrough,PERSON,People
+299,Real,Bangladesh,GPE,Locations
+304,Real,Dhaka,GPE,Locations
+305,Fake,Bangladesh,GPE,Locations
+307,Real,Chittagong,GPE,Locations
+309,Fake,Chittagong,GPE,Locations
+310,Fake,Breakthrough,PERSON,People
+310,Fake,Bangladesh,GPE,Locations
+311,Real,Dhaka Experts,ORG,Organizations
+312,Real,the moon Local,ORG,Organizations
+314,Real,Breakthrough,PERSON,People
+314,Real,Bangladesh,GPE,Locations
+315,Fake,Chittagong,GPE,Locations
+319,Fake,Breakthrough,PERSON,People
+319,Fake,Bangladesh,GPE,Locations
+321,Fake,Breakthrough,PERSON,People
+321,Fake,Bangladesh,GPE,Locations
+322,Real,Dhaka Local,ORG,Organizations
+326,Fake,Dhaka,GPE,Locations
+328,Fake,Chittagong,GPE,Locations
+329,Real,Chittagong,GPE,Locations
+330,Real,Bangladesh,GPE,Locations
+332,Fake,the moon Uncertainty,LOC,Locations
+333,Fake,Bangladesh,GPE,Locations
+334,Real,Bangladesh,GPE,Locations
+337,Real,Breakthrough,PERSON,People
+337,Real,Bangladesh,GPE,Locations
+340,Real,Chittagong,GPE,Locations
+342,Real,Dhaka Doctors,ORG,Organizations
+345,Real,Bangladesh,GPE,Locations
+349,Real,Bangladesh,GPE,Locations
+350,Real,Dhaka,GPE,Locations
+351,Real,Breakthrough,PERSON,People
+351,Real,Bangladesh,GPE,Locations
+354,Fake,Bangladesh,GPE,Locations
+356,Fake,Breakthrough,PERSON,People
+356,Fake,Bangladesh,GPE,Locations
+359,Real,Chittagong,GPE,Locations
+360,Fake,Chittagong,GPE,Locations
+361,Fake,Dhaka Experts,ORG,Organizations
+363,Fake,the moon Local,ORG,Organizations
+366,Fake,Chittagong,GPE,Locations
+366,Fake,Uncertainty,ORG,Organizations
+367,Real,Chittagong,GPE,Locations
+368,Real,Bangladesh,GPE,Locations
+372,Fake,Dhaka,GPE,Locations
+381,Fake,Breakthrough,PERSON,People
+381,Fake,Bangladesh,GPE,Locations
+383,Real,Breakthrough,PERSON,People
+383,Real,Bangladesh,GPE,Locations
+384,Fake,Bangladesh,GPE,Locations
+386,Real,Bangladesh,GPE,Locations
+388,Fake,Breakthrough,PERSON,People
+388,Fake,Bangladesh,GPE,Locations
+389,Fake,Breakthrough,PERSON,People
+389,Fake,Bangladesh,GPE,Locations
+390,Fake,Breakthrough,PERSON,People
+390,Fake,Bangladesh,GPE,Locations
+391,Fake,Uncertainty,ORG,Organizations
+394,Real,Dhaka Experts,ORG,Organizations
+398,Fake,Breakthrough,PERSON,People
+398,Fake,Bangladesh,GPE,Locations
+399,Fake,Dhaka Experts,ORG,Organizations
+401,Real,Dhaka,GPE,Locations
+402,Fake,the moon Uncertainty,LOC,Locations
+404,Fake,Dhaka,GPE,Locations
+406,Real,Chittagong,GPE,Locations
+407,Fake,Bangladesh,GPE,Locations
+410,Real,Dhaka Local,ORG,Organizations
+411,Fake,Chittagong,GPE,Locations
+413,Real,Chittagong,GPE,Locations
+414,Real,Chittagong,GPE,Locations
+417,Real,Breakthrough,PERSON,People
+417,Real,Bangladesh,GPE,Locations
+418,Fake,Chittagong,GPE,Locations
+419,Fake,the moon Government,ORG,Organizations
+422,Real,Dhaka,GPE,Locations
+423,Real,Dhaka Incidents,ORG,Organizations
+424,Fake,Breakthrough,PERSON,People
+424,Fake,Bangladesh,GPE,Locations
+425,Fake,Bangladesh,GPE,Locations
+427,Fake,Bangladesh,GPE,Locations
+428,Real,Chittagong,GPE,Locations
+432,Fake,Local,ORG,Organizations
+433,Fake,Dhaka,GPE,Locations
+436,Fake,Bangladesh,GPE,Locations
+439,Fake,Dhaka Doctors,ORG,Organizations
+443,Real,Breakthrough,PERSON,People
+443,Real,Bangladesh,GPE,Locations
+444,Real,Chittagong,GPE,Locations
+446,Fake,Breakthrough,PERSON,People
+446,Fake,Bangladesh,GPE,Locations
+448,Fake,Chittagong,GPE,Locations
+449,Fake,the moon Doctors,ORG,Organizations
+450,Fake,Bangladesh,GPE,Locations
+451,Real,the moon Uncertainty,LOC,Locations
+452,Fake,Dhaka Uncertainty,ORG,Organizations
+453,Fake,Bangladesh,GPE,Locations
+455,Real,Bangladesh,GPE,Locations
+459,Real,Bangladesh,GPE,Locations
+462,Fake,Chittagong,GPE,Locations
+465,Real,Chittagong,GPE,Locations
+466,Fake,Breakthrough,PERSON,People
+466,Fake,Bangladesh,GPE,Locations
+467,Real,Breakthrough,PERSON,People
+467,Real,Bangladesh,GPE,Locations
+474,Real,Breakthrough,PERSON,People
+474,Real,Bangladesh,GPE,Locations
+475,Fake,the moon Uncertainty,LOC,Locations
+479,Fake,Breakthrough,PERSON,People
+479,Fake,Bangladesh,GPE,Locations
+480,Real,Bangladesh,GPE,Locations
+482,Real,Dhaka,GPE,Locations
+484,Fake,Chittagong,GPE,Locations
+484,Fake,Uncertainty,ORG,Organizations
+485,Real,Chittagong,GPE,Locations
+487,Real,Bangladesh,GPE,Locations
+489,Real,Bangladesh,GPE,Locations
+490,Real,Breakthrough,PERSON,People
+490,Real,Bangladesh,GPE,Locations
+491,Real,Chittagong,GPE,Locations
+495,Fake,Breakthrough,PERSON,People
+495,Fake,Bangladesh,GPE,Locations
+496,Real,Breakthrough,PERSON,People
+496,Real,Bangladesh,GPE,Locations
+500,Fake,Dhaka Local,ORG,Organizations
+502,Fake,Bangladesh,GPE,Locations
+507,Real,Bangladesh,GPE,Locations
+508,Real,Chittagong,GPE,Locations
+509,Fake,Bangladesh,GPE,Locations
+511,Real,Uncertainty,ORG,Organizations
+513,Real,Breakthrough,PERSON,People
+513,Real,Bangladesh,GPE,Locations
+516,Real,Dhaka Uncertainty,ORG,Organizations
+518,Fake,Uncertainty,ORG,Organizations
+521,Fake,Dhaka Experts,ORG,Organizations
+523,Fake,Chittagong,GPE,Locations
+526,Fake,Breakthrough,PERSON,People
+526,Fake,Bangladesh,GPE,Locations
+528,Fake,Dhaka,GPE,Locations
+532,Real,Chittagong,GPE,Locations
+533,Real,Bangladesh,GPE,Locations
+534,Real,Chittagong,GPE,Locations
+535,Real,Dhaka,GPE,Locations
+537,Fake,Chittagong,GPE,Locations
+538,Fake,Chittagong,GPE,Locations
+539,Real,Chittagong,GPE,Locations
+540,Fake,Breakthrough,PERSON,People
+540,Fake,Bangladesh,GPE,Locations
+541,Fake,Dhaka Doctors,ORG,Organizations
+542,Fake,Dhaka Experts,ORG,Organizations
+544,Real,Chittagong,GPE,Locations
+545,Fake,Dhaka Uncertainty,ORG,Organizations
+548,Fake,Dhaka Incidents,ORG,Organizations
+549,Fake,Bangladesh,GPE,Locations
+551,Real,Chittagong,GPE,Locations
+551,Real,Uncertainty,ORG,Organizations
+552,Real,the moon Government,ORG,Organizations
+554,Real,Bangladesh,GPE,Locations
+556,Real,Dhaka Government,ORG,Organizations
+557,Fake,the moon Government,ORG,Organizations
+560,Real,Dhaka Local,ORG,Organizations
+561,Fake,Dhaka Government,ORG,Organizations
+562,Real,Bangladesh,GPE,Locations
+565,Fake,Chittagong,GPE,Locations
+566,Fake,Chittagong,GPE,Locations
+568,Fake,Chittagong,GPE,Locations
+571,Real,Bangladesh,GPE,Locations
+574,Real,Breakthrough,PERSON,People
+574,Real,Bangladesh,GPE,Locations
+575,Fake,the moon Doctors,ORG,Organizations
+577,Fake,the moon Local,ORG,Organizations
+578,Real,Bangladesh,GPE,Locations
+579,Fake,Chittagong,GPE,Locations
+583,Fake,Breakthrough,PERSON,People
+583,Fake,Bangladesh,GPE,Locations
+585,Fake,Dhaka Experts,ORG,Organizations
+587,Real,Chittagong,GPE,Locations
+589,Real,Dhaka Experts,ORG,Organizations
+591,Fake,Breakthrough,PERSON,People
+591,Fake,Bangladesh,GPE,Locations
+596,Fake,Bangladesh,GPE,Locations
+601,Fake,Bangladesh,GPE,Locations
+602,Fake,Bangladesh,GPE,Locations
+605,Fake,Chittagong,GPE,Locations
+606,Real,the moon Uncertainty,LOC,Locations
+609,Fake,Dhaka,GPE,Locations
+612,Fake,Chittagong,GPE,Locations
+616,Fake,Chittagong,GPE,Locations
+617,Real,the moon Doctors,ORG,Organizations
+618,Fake,Chittagong,GPE,Locations
+619,Fake,the moon Uncertainty,LOC,Locations
+621,Fake,Chittagong,GPE,Locations
+622,Fake,the moon Government,ORG,Organizations
+624,Fake,Chittagong,GPE,Locations
+625,Real,Dhaka Local,ORG,Organizations
+626,Real,Chittagong,GPE,Locations
+629,Fake,Local,ORG,Organizations
+633,Real,Chittagong,GPE,Locations
+634,Fake,Dhaka Local,ORG,Organizations
+635,Fake,Dhaka Doctors,ORG,Organizations
+636,Real,Dhaka Government,ORG,Organizations
+638,Real,Bangladesh,GPE,Locations
+641,Real,Breakthrough,PERSON,People
+641,Real,Bangladesh,GPE,Locations
+642,Fake,Bangladesh,GPE,Locations
+643,Real,Breakthrough,PERSON,People
+643,Real,Bangladesh,GPE,Locations
+644,Real,Breakthrough,PERSON,People
+644,Real,Bangladesh,GPE,Locations
+647,Real,Bangladesh,GPE,Locations
+652,Real,Bangladesh,GPE,Locations
+653,Real,Breakthrough,PERSON,People
+653,Real,Bangladesh,GPE,Locations
+654,Real,Chittagong,GPE,Locations
+657,Real,Bangladesh,GPE,Locations
+658,Fake,Dhaka Doctors,ORG,Organizations
+660,Real,Dhaka,GPE,Locations
+664,Real,Breakthrough,PERSON,People
+664,Real,Bangladesh,GPE,Locations
+665,Fake,Local,ORG,Organizations
+667,Fake,Dhaka,GPE,Locations
+669,Real,Dhaka Experts,ORG,Organizations
+670,Fake,Breakthrough,PERSON,People
+670,Fake,Bangladesh,GPE,Locations
+672,Fake,Bangladesh,GPE,Locations
+673,Real,the moon Uncertainty,LOC,Locations
+675,Fake,Breakthrough,PERSON,People
+675,Fake,Bangladesh,GPE,Locations
+678,Fake,the moon Government,ORG,Organizations
+681,Fake,Dhaka Uncertainty,ORG,Organizations
+686,Real,Breakthrough,PERSON,People
+686,Real,Bangladesh,GPE,Locations
+687,Real,Breakthrough,PERSON,People
+687,Real,Bangladesh,GPE,Locations
+688,Real,Dhaka,GPE,Locations
+689,Real,Dhaka Local,ORG,Organizations
+690,Real,Breakthrough,PERSON,People
+690,Real,Bangladesh,GPE,Locations
+692,Real,Bangladesh,GPE,Locations
+693,Real,Dhaka Government,ORG,Organizations
+697,Real,Dhaka Doctors,ORG,Organizations
+698,Fake,Uncertainty,ORG,Organizations
+701,Real,Breakthrough,PERSON,People
+701,Real,Bangladesh,GPE,Locations
+702,Real,Dhaka Uncertainty,ORG,Organizations
+703,Real,Bangladesh,GPE,Locations
+706,Fake,Bangladesh,GPE,Locations
+708,Real,Breakthrough,PERSON,People
+708,Real,Bangladesh,GPE,Locations
+710,Real,Breakthrough,PERSON,People
+710,Real,Bangladesh,GPE,Locations
+711,Fake,Breakthrough,PERSON,People
+711,Fake,Bangladesh,GPE,Locations
+717,Real,Chittagong,GPE,Locations
+720,Real,Dhaka,GPE,Locations
+721,Fake,Dhaka Uncertainty,ORG,Organizations
+722,Fake,Bangladesh,GPE,Locations
+723,Fake,Dhaka,GPE,Locations
+726,Real,Dhaka Government,ORG,Organizations
+729,Real,Dhaka Incidents,ORG,Organizations
+730,Fake,Breakthrough,PERSON,People
+730,Fake,Bangladesh,GPE,Locations
+734,Fake,Breakthrough,PERSON,People
+734,Fake,Bangladesh,GPE,Locations
+737,Fake,Breakthrough,PERSON,People
+737,Fake,Bangladesh,GPE,Locations
+738,Real,Breakthrough,PERSON,People
+738,Real,Bangladesh,GPE,Locations
+739,Real,Breakthrough,PERSON,People
+739,Real,Bangladesh,GPE,Locations
+740,Fake,Local,ORG,Organizations
+742,Fake,Dhaka Incidents,ORG,Organizations
+746,Real,Breakthrough,PERSON,People
+746,Real,Bangladesh,GPE,Locations
+754,Fake,Bangladesh,GPE,Locations
+757,Real,Chittagong,GPE,Locations
+765,Real,Bangladesh,GPE,Locations
+767,Real,Chittagong,GPE,Locations
+768,Real,Dhaka,GPE,Locations
+773,Fake,Bangladesh,GPE,Locations
+775,Fake,Breakthrough,PERSON,People
+775,Fake,Bangladesh,GPE,Locations
+776,Real,Breakthrough,PERSON,People
+776,Real,Bangladesh,GPE,Locations
+780,Fake,Chittagong,GPE,Locations
+781,Real,Bangladesh,GPE,Locations
+782,Real,Dhaka Doctors,ORG,Organizations
+783,Fake,Breakthrough,PERSON,People
+783,Fake,Bangladesh,GPE,Locations
+785,Fake,Dhaka Uncertainty,ORG,Organizations
+787,Fake,Breakthrough,PERSON,People
+787,Fake,Bangladesh,GPE,Locations
+789,Real,Bangladesh,GPE,Locations
+790,Real,Chittagong,GPE,Locations
+792,Real,Bangladesh,GPE,Locations
+793,Fake,Dhaka,GPE,Locations
+794,Real,Chittagong,GPE,Locations
+795,Real,Local,ORG,Organizations
+797,Fake,Bangladesh,GPE,Locations
+800,Fake,Breakthrough,PERSON,People
+800,Fake,Bangladesh,GPE,Locations
+801,Real,Chittagong,GPE,Locations
+801,Real,Uncertainty,ORG,Organizations
+802,Real,Chittagong,GPE,Locations
+804,Fake,Chittagong,GPE,Locations
+806,Real,Chittagong,GPE,Locations
+808,Real,Dhaka,GPE,Locations
+809,Real,Bangladesh,GPE,Locations
+810,Real,the moon Doctors,ORG,Organizations
+815,Real,Breakthrough,PERSON,People
+815,Real,Bangladesh,GPE,Locations
+816,Real,Dhaka Uncertainty,ORG,Organizations
+817,Fake,Chittagong,GPE,Locations
+817,Fake,Uncertainty,ORG,Organizations
+819,Fake,Dhaka,GPE,Locations
+820,Real,Dhaka,GPE,Locations
+822,Real,Chittagong,GPE,Locations
+823,Real,Bangladesh,GPE,Locations
+824,Fake,Chittagong,GPE,Locations
+825,Fake,Breakthrough,PERSON,People
+825,Fake,Bangladesh,GPE,Locations
+826,Real,Breakthrough,PERSON,People
+826,Real,Bangladesh,GPE,Locations
+827,Real,the moon Local,ORG,Organizations
+828,Fake,Chittagong,GPE,Locations
+832,Real,Dhaka Experts,ORG,Organizations
+836,Real,Bangladesh,GPE,Locations
+837,Real,Bangladesh,GPE,Locations
+838,Fake,Breakthrough,PERSON,People
+838,Fake,Bangladesh,GPE,Locations
+839,Real,Dhaka,GPE,Locations
+840,Real,Bangladesh,GPE,Locations
+841,Fake,Breakthrough,PERSON,People
+841,Fake,Bangladesh,GPE,Locations
+851,Real,Bangladesh,GPE,Locations
+855,Real,Chittagong,GPE,Locations
+859,Fake,Bangladesh,GPE,Locations
+861,Real,Dhaka Incidents,ORG,Organizations
+866,Fake,Dhaka Government,ORG,Organizations
+867,Fake,Bangladesh,GPE,Locations
+870,Real,Breakthrough,PERSON,People
+870,Real,Bangladesh,GPE,Locations
+871,Fake,Bangladesh,GPE,Locations
+872,Fake,Breakthrough,PERSON,People
+872,Fake,Bangladesh,GPE,Locations
+873,Real,the moon Doctors,ORG,Organizations
+874,Fake,Dhaka,GPE,Locations
+876,Fake,the moon Government,ORG,Organizations
+877,Real,Bangladesh,GPE,Locations
+879,Fake,Dhaka,GPE,Locations
+882,Real,Breakthrough,PERSON,People
+882,Real,Bangladesh,GPE,Locations
+883,Fake,Breakthrough,PERSON,People
+883,Fake,Bangladesh,GPE,Locations
+884,Real,Bangladesh,GPE,Locations
+885,Real,Breakthrough,PERSON,People
+885,Real,Bangladesh,GPE,Locations
+887,Fake,Chittagong,GPE,Locations
+888,Real,Bangladesh,GPE,Locations
+889,Real,Bangladesh,GPE,Locations
+890,Real,Breakthrough,PERSON,People
+890,Real,Bangladesh,GPE,Locations
+891,Real,Dhaka Government,ORG,Organizations
+894,Fake,Breakthrough,PERSON,People
+894,Fake,Bangladesh,GPE,Locations
+895,Fake,Breakthrough,PERSON,People
+895,Fake,Bangladesh,GPE,Locations
+900,Real,Dhaka,GPE,Locations
+906,Fake,Breakthrough,PERSON,People
+906,Fake,Bangladesh,GPE,Locations
+907,Real,Chittagong,GPE,Locations
+907,Real,Uncertainty,ORG,Organizations
+909,Real,Dhaka,GPE,Locations
+910,Real,Uncertainty,ORG,Organizations
+912,Real,Breakthrough,PERSON,People
+912,Real,Bangladesh,GPE,Locations
+913,Fake,Bangladesh,GPE,Locations
+915,Real,Chittagong,GPE,Locations
+917,Fake,Bangladesh,GPE,Locations
+918,Real,Chittagong,GPE,Locations
+919,Fake,Chittagong,GPE,Locations
+920,Real,Local,ORG,Organizations
+921,Fake,Breakthrough,PERSON,People
+921,Fake,Bangladesh,GPE,Locations
+922,Real,Dhaka Uncertainty,ORG,Organizations
+926,Real,Chittagong,GPE,Locations
+928,Fake,Chittagong,GPE,Locations
+929,Fake,the moon Government,ORG,Organizations
+931,Real,the moon Doctors,ORG,Organizations
+933,Fake,Dhaka Uncertainty,ORG,Organizations
+939,Fake,Bangladesh,GPE,Locations
+941,Real,Chittagong,GPE,Locations
+944,Fake,Breakthrough,PERSON,People
+944,Fake,Bangladesh,GPE,Locations
+945,Fake,Bangladesh,GPE,Locations
+946,Fake,Chittagong,GPE,Locations
+947,Real,Local,ORG,Organizations
+948,Fake,Chittagong,GPE,Locations
+952,Real,Dhaka,GPE,Locations
+953,Real,Bangladesh,GPE,Locations
+954,Fake,Chittagong,GPE,Locations
+963,Real,Dhaka,GPE,Locations
+966,Fake,the moon Doctors,ORG,Organizations
+967,Fake,Chittagong,GPE,Locations
+970,Real,Bangladesh,GPE,Locations
+974,Real,Bangladesh,GPE,Locations
+975,Real,Chittagong,GPE,Locations
+976,Fake,Bangladesh,GPE,Locations
+978,Fake,Breakthrough,PERSON,People
+978,Fake,Bangladesh,GPE,Locations
+981,Fake,Dhaka Experts,ORG,Organizations
+982,Real,Bangladesh,GPE,Locations
+984,Real,Breakthrough,PERSON,People
+984,Real,Bangladesh,GPE,Locations
+990,Real,Bangladesh,GPE,Locations
+991,Real,Bangladesh,GPE,Locations
+992,Real,Bangladesh,GPE,Locations
+994,Fake,Breakthrough,PERSON,People
+994,Fake,Bangladesh,GPE,Locations
+995,Fake,Chittagong,GPE,Locations
+996,Fake,Breakthrough,PERSON,People
+996,Fake,Bangladesh,GPE,Locations
+1000,Fake,Chittagong,GPE,Locations
+1003,Real,Chittagong,GPE,Locations
+1004,Real,the moon Uncertainty,LOC,Locations
+1006,Fake,the moon Doctors,ORG,Organizations
+1008,Fake,Dhaka Doctors,ORG,Organizations
+1010,Real,Chittagong,GPE,Locations
+1011,Fake,Dhaka,GPE,Locations
+1013,Fake,Bangladesh,GPE,Locations
+1014,Real,Chittagong,GPE,Locations
+1015,Fake,Bangladesh,GPE,Locations
+1017,Fake,Breakthrough,PERSON,People
+1017,Fake,Bangladesh,GPE,Locations
+1018,Real,Dhaka Experts,ORG,Organizations
+1019,Real,Breakthrough,PERSON,People
+1019,Real,Bangladesh,GPE,Locations
+1022,Real,Breakthrough,PERSON,People
+1022,Real,Bangladesh,GPE,Locations
+1024,Fake,Dhaka Experts,ORG,Organizations
+1025,Real,Uncertainty,ORG,Organizations
+1028,Real,Chittagong,GPE,Locations
+1029,Real,Bangladesh,GPE,Locations
+1032,Fake,Bangladesh,GPE,Locations
+1033,Real,the moon Doctors,ORG,Organizations
+1037,Real,the moon Uncertainty,LOC,Locations
+1039,Fake,Breakthrough,PERSON,People
+1039,Fake,Bangladesh,GPE,Locations
+1040,Fake,Breakthrough,PERSON,People
+1040,Fake,Bangladesh,GPE,Locations
+1041,Fake,Breakthrough,PERSON,People
+1041,Fake,Bangladesh,GPE,Locations
+1042,Fake,Breakthrough,PERSON,People
+1042,Fake,Bangladesh,GPE,Locations
+1043,Fake,Chittagong,GPE,Locations
+1044,Fake,Dhaka,GPE,Locations
+1045,Fake,Chittagong,GPE,Locations
+1046,Real,Breakthrough,PERSON,People
+1046,Real,Bangladesh,GPE,Locations
+1047,Real,Chittagong,GPE,Locations
+1051,Fake,Breakthrough,PERSON,People
+1051,Fake,Bangladesh,GPE,Locations
+1053,Fake,the moon Uncertainty,LOC,Locations
+1055,Real,Bangladesh,GPE,Locations
+1057,Real,Bangladesh,GPE,Locations
+1062,Fake,Breakthrough,PERSON,People
+1062,Fake,Bangladesh,GPE,Locations
+1063,Fake,Dhaka,GPE,Locations
+1064,Real,Breakthrough,PERSON,People
+1064,Real,Bangladesh,GPE,Locations
+1071,Real,Bangladesh,GPE,Locations
+1072,Real,Dhaka,GPE,Locations
+1074,Fake,the moon Government,ORG,Organizations
+1076,Real,Chittagong,GPE,Locations
+1077,Fake,Breakthrough,PERSON,People
+1077,Fake,Bangladesh,GPE,Locations
+1079,Fake,Chittagong,GPE,Locations
+1080,Real,Dhaka Uncertainty,ORG,Organizations
+1081,Fake,Bangladesh,GPE,Locations
+1082,Real,Dhaka,GPE,Locations
+1084,Real,Chittagong,GPE,Locations
+1084,Real,Uncertainty,ORG,Organizations
+1087,Fake,Breakthrough,PERSON,People
+1087,Fake,Bangladesh,GPE,Locations
+1088,Real,Breakthrough,PERSON,People
+1088,Real,Bangladesh,GPE,Locations
+1091,Real,Breakthrough,PERSON,People
+1091,Real,Bangladesh,GPE,Locations
+1095,Real,Chittagong,GPE,Locations
+1096,Fake,Dhaka,GPE,Locations
+1097,Fake,Bangladesh,GPE,Locations
+1099,Real,Dhaka Local,ORG,Organizations
+1101,Real,Dhaka,GPE,Locations
+1102,Fake,Chittagong,GPE,Locations
+1108,Fake,Breakthrough,PERSON,People
+1108,Fake,Bangladesh,GPE,Locations
+1109,Real,Breakthrough,PERSON,People
+1109,Real,Bangladesh,GPE,Locations
+1110,Fake,Dhaka,GPE,Locations
+1112,Real,Chittagong,GPE,Locations
+1113,Fake,Breakthrough,PERSON,People
+1113,Fake,Bangladesh,GPE,Locations
+1117,Real,Dhaka,GPE,Locations
+1118,Real,Chittagong,GPE,Locations
+1122,Fake,Breakthrough,PERSON,People
+1122,Fake,Bangladesh,GPE,Locations
+1123,Fake,the moon Doctors,ORG,Organizations
+1126,Real,Bangladesh,GPE,Locations
+1127,Fake,Dhaka Incidents,ORG,Organizations
+1128,Real,Chittagong,GPE,Locations
+1129,Real,Uncertainty,ORG,Organizations
+1131,Fake,Dhaka Local,ORG,Organizations
+1132,Fake,Breakthrough,PERSON,People
+1132,Fake,Bangladesh,GPE,Locations
+1133,Fake,Breakthrough,PERSON,People
+1133,Fake,Bangladesh,GPE,Locations
+1134,Real,Dhaka Government,ORG,Organizations
+1136,Real,Dhaka,GPE,Locations
+1138,Fake,Breakthrough,PERSON,People
+1138,Fake,Bangladesh,GPE,Locations
+1140,Real,Breakthrough,PERSON,People
+1140,Real,Bangladesh,GPE,Locations
+1143,Fake,Breakthrough,PERSON,People
+1143,Fake,Bangladesh,GPE,Locations
+1146,Real,Dhaka,GPE,Locations
+1147,Fake,Breakthrough,PERSON,People
+1147,Fake,Bangladesh,GPE,Locations
+1148,Fake,Chittagong,GPE,Locations
+1149,Real,Bangladesh,GPE,Locations
+1150,Fake,Bangladesh,GPE,Locations
+1153,Real,Breakthrough,PERSON,People
+1153,Real,Bangladesh,GPE,Locations
+1155,Real,Breakthrough,PERSON,People
+1155,Real,Bangladesh,GPE,Locations
+1157,Fake,Breakthrough,PERSON,People
+1157,Fake,Bangladesh,GPE,Locations
+1162,Fake,Bangladesh,GPE,Locations
+1164,Real,Breakthrough,PERSON,People
+1164,Real,Bangladesh,GPE,Locations
+1165,Real,Breakthrough,PERSON,People
+1165,Real,Bangladesh,GPE,Locations
+1167,Fake,Chittagong,GPE,Locations
+1167,Fake,Uncertainty,ORG,Organizations
+1172,Real,Bangladesh,GPE,Locations
+1173,Fake,Dhaka,GPE,Locations
+1176,Fake,Chittagong,GPE,Locations
+1177,Real,Dhaka Doctors,ORG,Organizations
+1180,Fake,Bangladesh,GPE,Locations
+1181,Real,Bangladesh,GPE,Locations
+1182,Fake,Chittagong,GPE,Locations
+1183,Fake,the moon Government,ORG,Organizations
+1184,Real,Bangladesh,GPE,Locations
+1187,Fake,the moon Government,ORG,Organizations
+1192,Real,Dhaka Doctors,ORG,Organizations
+1198,Real,Breakthrough,PERSON,People
+1198,Real,Bangladesh,GPE,Locations
+1199,Real,Chittagong,GPE,Locations
+1201,Fake,Breakthrough,PERSON,People
+1201,Fake,Bangladesh,GPE,Locations
+1204,Fake,Bangladesh,GPE,Locations
+1205,Real,the moon Uncertainty,LOC,Locations
+1207,Real,Breakthrough,PERSON,People
+1207,Real,Bangladesh,GPE,Locations
+1208,Real,Breakthrough,PERSON,People
+1208,Real,Bangladesh,GPE,Locations
+1209,Real,Breakthrough,PERSON,People
+1209,Real,Bangladesh,GPE,Locations
+1212,Fake,Bangladesh,GPE,Locations
+1214,Real,Dhaka Local,ORG,Organizations
+1215,Fake,Dhaka Local,ORG,Organizations
+1216,Fake,the moon Local,ORG,Organizations
+1218,Fake,Dhaka Uncertainty,ORG,Organizations
+1219,Real,Breakthrough,PERSON,People
+1219,Real,Bangladesh,GPE,Locations
+1220,Fake,Breakthrough,PERSON,People
+1220,Fake,Bangladesh,GPE,Locations
+1221,Fake,Chittagong,GPE,Locations
+1221,Fake,Uncertainty,ORG,Organizations
+1223,Real,Bangladesh,GPE,Locations
+1228,Real,Bangladesh,GPE,Locations
+1230,Fake,Chittagong,GPE,Locations
+1231,Real,Chittagong,GPE,Locations
+1232,Real,Local,ORG,Organizations
+1233,Real,Dhaka,GPE,Locations
+1243,Fake,Bangladesh,GPE,Locations
+1244,Real,Chittagong,GPE,Locations
+1245,Fake,Breakthrough,PERSON,People
+1245,Fake,Bangladesh,GPE,Locations
+1246,Fake,Breakthrough,PERSON,People
+1246,Fake,Bangladesh,GPE,Locations
+1247,Fake,Chittagong,GPE,Locations
+1248,Real,Dhaka,GPE,Locations
+1250,Fake,Breakthrough,PERSON,People
+1250,Fake,Bangladesh,GPE,Locations
+1251,Fake,Dhaka Experts,ORG,Organizations
+1252,Real,Bangladesh,GPE,Locations
+1253,Fake,Dhaka Experts,ORG,Organizations
+1254,Fake,Breakthrough,PERSON,People
+1254,Fake,Bangladesh,GPE,Locations
+1255,Real,Bangladesh,GPE,Locations
+1256,Real,Dhaka,GPE,Locations
+1257,Fake,Breakthrough,PERSON,People
+1257,Fake,Bangladesh,GPE,Locations
+1260,Real,Bangladesh,GPE,Locations
+1263,Real,Chittagong,GPE,Locations
+1263,Real,Uncertainty,ORG,Organizations
+1265,Real,Bangladesh,GPE,Locations
+1266,Fake,Bangladesh,GPE,Locations
+1268,Fake,Breakthrough,PERSON,People
+1268,Fake,Bangladesh,GPE,Locations
+1269,Real,Chittagong,GPE,Locations
+1270,Real,Chittagong,GPE,Locations
+1271,Real,Bangladesh,GPE,Locations
+1274,Real,Dhaka Uncertainty,ORG,Organizations
+1277,Fake,Bangladesh,GPE,Locations
+1278,Real,Breakthrough,PERSON,People
+1278,Real,Bangladesh,GPE,Locations
+1279,Fake,Bangladesh,GPE,Locations
+1280,Real,Dhaka Doctors,ORG,Organizations
+1284,Fake,Breakthrough,PERSON,People
+1284,Fake,Bangladesh,GPE,Locations
+1285,Real,Chittagong,GPE,Locations
+1286,Fake,Breakthrough,PERSON,People
+1286,Fake,Bangladesh,GPE,Locations
+1287,Fake,Breakthrough,PERSON,People
+1287,Fake,Bangladesh,GPE,Locations
+1291,Real,the moon Local,ORG,Organizations
+1292,Fake,Bangladesh,GPE,Locations
+1294,Fake,Breakthrough,PERSON,People
+1294,Fake,Bangladesh,GPE,Locations
+1296,Fake,Bangladesh,GPE,Locations
+1299,Real,Chittagong,GPE,Locations
+1301,Real,Local,ORG,Organizations
+1302,Fake,Dhaka Incidents,ORG,Organizations
+1303,Fake,Bangladesh,GPE,Locations
+1304,Fake,the moon Doctors,ORG,Organizations
+1307,Fake,the moon Government,ORG,Organizations
+1308,Fake,Breakthrough,PERSON,People
+1308,Fake,Bangladesh,GPE,Locations
+1309,Real,Chittagong,GPE,Locations
+1310,Real,Chittagong,GPE,Locations
+1311,Fake,Dhaka Local,ORG,Organizations
+1312,Real,Bangladesh,GPE,Locations
+1316,Real,Chittagong,GPE,Locations
+1318,Fake,Bangladesh,GPE,Locations
+1321,Fake,the moon Uncertainty,LOC,Locations
+1322,Fake,Dhaka,GPE,Locations
+1324,Real,Dhaka,GPE,Locations
+1325,Real,Bangladesh,GPE,Locations
+1328,Fake,Bangladesh,GPE,Locations
+1329,Fake,Dhaka,GPE,Locations
+1330,Fake,Bangladesh,GPE,Locations
+1331,Real,Local,ORG,Organizations
+1333,Fake,Dhaka Doctors,ORG,Organizations
+1336,Real,Bangladesh,GPE,Locations
+1341,Fake,Breakthrough,PERSON,People
+1341,Fake,Bangladesh,GPE,Locations
+1344,Real,Dhaka,GPE,Locations
+1346,Real,Breakthrough,PERSON,People
+1346,Real,Bangladesh,GPE,Locations
+1347,Fake,the moon Uncertainty,LOC,Locations
+1348,Real,Dhaka,GPE,Locations
+1363,Real,Bangladesh,GPE,Locations
+1368,Fake,Bangladesh,GPE,Locations
+1369,Fake,Chittagong,GPE,Locations
+1370,Real,Local,ORG,Organizations
+1375,Real,Breakthrough,PERSON,People
+1375,Real,Bangladesh,GPE,Locations
+1376,Fake,Dhaka,GPE,Locations
+1379,Real,Chittagong,GPE,Locations
+1380,Fake,Breakthrough,PERSON,People
+1380,Fake,Bangladesh,GPE,Locations
+1384,Fake,Dhaka,GPE,Locations
+1385,Real,the moon Doctors,ORG,Organizations
+1389,Real,Chittagong,GPE,Locations
+1391,Real,Bangladesh,GPE,Locations
+1395,Fake,Chittagong,GPE,Locations
+1398,Real,Bangladesh,GPE,Locations
+1403,Fake,the moon Uncertainty,LOC,Locations
+1404,Real,the moon Local,ORG,Organizations
+1406,Fake,Dhaka Incidents,ORG,Organizations
+1407,Real,Local,ORG,Organizations
+1410,Fake,Dhaka Doctors,ORG,Organizations
+1411,Real,Chittagong,GPE,Locations
+1413,Real,Chittagong,GPE,Locations
+1414,Fake,Bangladesh,GPE,Locations
+1417,Real,Breakthrough,PERSON,People
+1417,Real,Bangladesh,GPE,Locations
+1418,Fake,Bangladesh,GPE,Locations
+1419,Real,Chittagong,GPE,Locations
+1420,Real,Dhaka,GPE,Locations
+1426,Fake,Breakthrough,PERSON,People
+1426,Fake,Bangladesh,GPE,Locations
+1427,Fake,Dhaka,GPE,Locations
+1431,Fake,Chittagong,GPE,Locations
+1434,Real,the moon Doctors,ORG,Organizations
+1437,Fake,the moon Uncertainty,LOC,Locations
+1440,Real,Bangladesh,GPE,Locations
+1442,Fake,Breakthrough,PERSON,People
+1442,Fake,Bangladesh,GPE,Locations
+1443,Real,Bangladesh,GPE,Locations
+1446,Real,Breakthrough,PERSON,People
+1446,Real,Bangladesh,GPE,Locations
+1448,Fake,Dhaka Incidents,ORG,Organizations
+1450,Fake,Bangladesh,GPE,Locations
+1451,Fake,Dhaka Uncertainty,ORG,Organizations
+1452,Real,the moon Local,ORG,Organizations
+1455,Fake,Chittagong,GPE,Locations
+1460,Real,Bangladesh,GPE,Locations
+1465,Fake,Breakthrough,PERSON,People
+1465,Fake,Bangladesh,GPE,Locations
+1466,Fake,Breakthrough,PERSON,People
+1466,Fake,Bangladesh,GPE,Locations
+1467,Real,Breakthrough,PERSON,People
+1467,Real,Bangladesh,GPE,Locations
+1468,Fake,Dhaka Doctors,ORG,Organizations
+1469,Fake,Chittagong,GPE,Locations
+1474,Real,Uncertainty,ORG,Organizations
+1475,Real,Bangladesh,GPE,Locations
+1477,Fake,Breakthrough,PERSON,People
+1477,Fake,Bangladesh,GPE,Locations
+1478,Real,Chittagong,GPE,Locations
+1478,Real,Uncertainty,ORG,Organizations
+1480,Real,Chittagong,GPE,Locations
+1481,Real,Breakthrough,PERSON,People
+1481,Real,Bangladesh,GPE,Locations
+1483,Fake,Breakthrough,PERSON,People
+1483,Fake,Bangladesh,GPE,Locations
+1487,Real,Chittagong,GPE,Locations
+1488,Fake,Breakthrough,PERSON,People
+1488,Fake,Bangladesh,GPE,Locations
+1490,Fake,Dhaka Doctors,ORG,Organizations
+1493,Real,Breakthrough,PERSON,People
+1493,Real,Bangladesh,GPE,Locations
+1495,Fake,Chittagong,GPE,Locations
+1498,Real,Bangladesh,GPE,Locations
+1500,Real,Dhaka,GPE,Locations
+1501,Fake,Dhaka,GPE,Locations
+1502,Real,Chittagong,GPE,Locations
+1503,Real,Bangladesh,GPE,Locations
+1504,Fake,Bangladesh,GPE,Locations
+1505,Real,Breakthrough,PERSON,People
+1505,Real,Bangladesh,GPE,Locations
+1506,Fake,Breakthrough,PERSON,People
+1506,Fake,Bangladesh,GPE,Locations
+1508,Real,Dhaka Local,ORG,Organizations
+1511,Real,Breakthrough,PERSON,People
+1511,Real,Bangladesh,GPE,Locations
+1512,Real,Chittagong,GPE,Locations
+1513,Fake,Bangladesh,GPE,Locations
+1515,Fake,Chittagong,GPE,Locations
+1516,Real,the moon Uncertainty,LOC,Locations
+1521,Fake,Bangladesh,GPE,Locations
+1523,Fake,the moon Doctors,ORG,Organizations
+1524,Fake,Bangladesh,GPE,Locations
+1526,Fake,Bangladesh,GPE,Locations
+1530,Fake,Bangladesh,GPE,Locations
+1533,Real,Chittagong,GPE,Locations
+1534,Real,Dhaka,GPE,Locations
+1538,Fake,Chittagong,GPE,Locations
+1539,Fake,Chittagong,GPE,Locations
+1541,Fake,Chittagong,GPE,Locations
+1542,Real,Bangladesh,GPE,Locations
+1546,Real,Breakthrough,PERSON,People
+1546,Real,Bangladesh,GPE,Locations
+1549,Real,Dhaka Government,ORG,Organizations
+1550,Real,Bangladesh,GPE,Locations
+1552,Fake,Dhaka Incidents,ORG,Organizations
+1555,Real,Breakthrough,PERSON,People
+1555,Real,Bangladesh,GPE,Locations
+1558,Fake,Breakthrough,PERSON,People
+1558,Fake,Bangladesh,GPE,Locations
+1559,Fake,Bangladesh,GPE,Locations
+1560,Fake,Chittagong,GPE,Locations
+1564,Real,Bangladesh,GPE,Locations
+1565,Fake,Breakthrough,PERSON,People
+1565,Fake,Bangladesh,GPE,Locations
+1568,Real,Dhaka,GPE,Locations
+1571,Real,Bangladesh,GPE,Locations
+1574,Fake,the moon Government,ORG,Organizations
+1575,Fake,Breakthrough,PERSON,People
+1575,Fake,Bangladesh,GPE,Locations
+1576,Real,Dhaka Incidents,ORG,Organizations
+1577,Real,Dhaka Doctors,ORG,Organizations
+1578,Real,Breakthrough,PERSON,People
+1578,Real,Bangladesh,GPE,Locations
+1580,Fake,Dhaka Local,ORG,Organizations
+1582,Real,Bangladesh,GPE,Locations
+1583,Fake,Chittagong,GPE,Locations
+1585,Real,Chittagong,GPE,Locations
+1586,Fake,Bangladesh,GPE,Locations
+1587,Real,Bangladesh,GPE,Locations
+1590,Fake,Uncertainty,ORG,Organizations
+1592,Real,Chittagong,GPE,Locations
+1594,Real,Chittagong,GPE,Locations
+1595,Fake,Breakthrough,PERSON,People
+1595,Fake,Bangladesh,GPE,Locations
+1597,Fake,Chittagong,GPE,Locations
+1597,Fake,Uncertainty,ORG,Organizations
+1599,Fake,the moon Doctors,ORG,Organizations
+1602,Real,Chittagong,GPE,Locations
+1603,Real,Chittagong,GPE,Locations
+1605,Fake,Chittagong,GPE,Locations
+1607,Real,Dhaka,GPE,Locations
+1608,Fake,Dhaka Local,ORG,Organizations
+1609,Fake,Chittagong,GPE,Locations
+1612,Fake,Chittagong,GPE,Locations
+1613,Fake,Chittagong,GPE,Locations
+1614,Real,Chittagong,GPE,Locations
+1615,Real,Bangladesh,GPE,Locations
+1623,Fake,the moon Doctors,ORG,Organizations
+1625,Real,Bangladesh,GPE,Locations
+1627,Real,Dhaka,GPE,Locations
+1629,Fake,Chittagong,GPE,Locations
+1630,Fake,Uncertainty,ORG,Organizations
+1632,Real,Dhaka,GPE,Locations
+1634,Fake,the moon Government,ORG,Organizations
+1637,Fake,Chittagong,GPE,Locations
+1637,Fake,Uncertainty,ORG,Organizations
+1640,Fake,Bangladesh,GPE,Locations
+1641,Fake,Dhaka Doctors,ORG,Organizations
+1645,Fake,Chittagong,GPE,Locations
+1646,Real,the moon Local,ORG,Organizations
+1647,Fake,Dhaka,GPE,Locations
+1651,Real,Dhaka,GPE,Locations
+1652,Real,the moon Uncertainty,LOC,Locations
+1653,Real,the moon Local,ORG,Organizations
+1654,Fake,Dhaka Uncertainty,ORG,Organizations
+1655,Fake,Dhaka Government,ORG,Organizations
+1659,Real,Bangladesh,GPE,Locations
+1660,Real,Local,ORG,Organizations
+1661,Fake,Breakthrough,PERSON,People
+1661,Fake,Bangladesh,GPE,Locations
+1664,Real,Breakthrough,PERSON,People
+1664,Real,Bangladesh,GPE,Locations
+1668,Fake,Chittagong,GPE,Locations
+1671,Real,Local,ORG,Organizations
+1672,Fake,Bangladesh,GPE,Locations
+1676,Real,Uncertainty,ORG,Organizations
+1677,Fake,Bangladesh,GPE,Locations
+1680,Fake,the moon Uncertainty,LOC,Locations
+1685,Fake,Breakthrough,PERSON,People
+1685,Fake,Bangladesh,GPE,Locations
+1687,Fake,the moon Local,ORG,Organizations
+1689,Fake,Chittagong,GPE,Locations
+1691,Real,the moon Doctors,ORG,Organizations
+1693,Real,Dhaka,GPE,Locations
+1697,Fake,Chittagong,GPE,Locations
+1699,Fake,Breakthrough,PERSON,People
+1699,Fake,Bangladesh,GPE,Locations
+1700,Real,Dhaka,GPE,Locations
+1702,Fake,Breakthrough,PERSON,People
+1702,Fake,Bangladesh,GPE,Locations
+1703,Real,Dhaka Doctors,ORG,Organizations
+1705,Real,Uncertainty,ORG,Organizations
+1707,Fake,Dhaka,GPE,Locations
+1708,Real,Dhaka Government,ORG,Organizations
+1711,Fake,Chittagong,GPE,Locations
+1712,Real,Local,ORG,Organizations
+1715,Fake,Chittagong,GPE,Locations
+1717,Fake,Breakthrough,PERSON,People
+1717,Fake,Bangladesh,GPE,Locations
+1718,Real,Chittagong,GPE,Locations
+1719,Fake,Dhaka,GPE,Locations
+1720,Real,Breakthrough,PERSON,People
+1720,Real,Bangladesh,GPE,Locations
+1722,Real,Chittagong,GPE,Locations
+1723,Real,Dhaka Doctors,ORG,Organizations
+1726,Real,Bangladesh,GPE,Locations
+1727,Real,Breakthrough,PERSON,People
+1727,Real,Bangladesh,GPE,Locations
+1728,Fake,Breakthrough,PERSON,People
+1728,Fake,Bangladesh,GPE,Locations
+1733,Real,Bangladesh,GPE,Locations
+1734,Real,the moon Government,ORG,Organizations
+1735,Fake,Dhaka,GPE,Locations
+1736,Real,Chittagong,GPE,Locations
+1739,Real,Chittagong,GPE,Locations
+1739,Real,Uncertainty,ORG,Organizations
+1740,Fake,Breakthrough,PERSON,People
+1740,Fake,Bangladesh,GPE,Locations
+1741,Fake,Chittagong,GPE,Locations
+1742,Fake,Bangladesh,GPE,Locations
+1743,Real,Chittagong,GPE,Locations
+1744,Fake,Breakthrough,PERSON,People
+1744,Fake,Bangladesh,GPE,Locations
+1748,Real,Breakthrough,PERSON,People
+1748,Real,Bangladesh,GPE,Locations
+1751,Fake,Bangladesh,GPE,Locations
+1753,Real,Dhaka,GPE,Locations
+1754,Real,Bangladesh,GPE,Locations
+1756,Fake,Bangladesh,GPE,Locations
+1758,Fake,Chittagong,GPE,Locations
+1761,Fake,Chittagong,GPE,Locations
+1764,Fake,Bangladesh,GPE,Locations
+1765,Fake,Breakthrough,PERSON,People
+1765,Fake,Bangladesh,GPE,Locations
+1768,Fake,Dhaka Experts,ORG,Organizations
+1769,Fake,Chittagong,GPE,Locations
+1771,Fake,Dhaka,GPE,Locations
+1775,Real,Dhaka Doctors,ORG,Organizations
+1776,Real,Bangladesh,GPE,Locations
+1778,Real,Bangladesh,GPE,Locations
+1782,Real,Chittagong,GPE,Locations
+1783,Fake,Bangladesh,GPE,Locations
+1785,Fake,Breakthrough,PERSON,People
+1785,Fake,Bangladesh,GPE,Locations
+1790,Real,Dhaka Local,ORG,Organizations
+1791,Fake,Dhaka,GPE,Locations
+1793,Real,Dhaka Government,ORG,Organizations
+1794,Real,the moon Uncertainty,LOC,Locations
+1797,Real,Dhaka Government,ORG,Organizations
+1798,Real,Bangladesh,GPE,Locations
+1799,Real,Breakthrough,PERSON,People
+1799,Real,Bangladesh,GPE,Locations
+1804,Real,Dhaka Local,ORG,Organizations
+1805,Real,Dhaka Local,ORG,Organizations
+1806,Fake,Bangladesh,GPE,Locations
+1810,Fake,Chittagong,GPE,Locations
+1812,Real,Breakthrough,PERSON,People
+1812,Real,Bangladesh,GPE,Locations
+1813,Fake,Bangladesh,GPE,Locations
+1815,Real,the moon Doctors,ORG,Organizations
+1819,Fake,Bangladesh,GPE,Locations
+1820,Real,Bangladesh,GPE,Locations
+1830,Real,the moon Government,ORG,Organizations
+1833,Fake,Breakthrough,PERSON,People
+1833,Fake,Bangladesh,GPE,Locations
+1834,Fake,Chittagong,GPE,Locations
+1844,Real,Uncertainty,ORG,Organizations
+1846,Fake,Chittagong,GPE,Locations
+1850,Fake,Dhaka Local,ORG,Organizations
+1856,Fake,Dhaka Local,ORG,Organizations
+1857,Real,Dhaka,GPE,Locations
+1860,Real,Dhaka,GPE,Locations
+1861,Fake,Bangladesh,GPE,Locations
+1862,Fake,Dhaka,GPE,Locations
+1865,Real,Bangladesh,GPE,Locations
+1869,Real,Chittagong,GPE,Locations
+1870,Fake,Breakthrough,PERSON,People
+1870,Fake,Bangladesh,GPE,Locations
+1871,Real,Chittagong,GPE,Locations
+1874,Real,the moon Doctors,ORG,Organizations
+1879,Fake,Breakthrough,PERSON,People
+1879,Fake,Bangladesh,GPE,Locations
+1882,Real,Bangladesh,GPE,Locations
+1883,Real,Dhaka,GPE,Locations
+1885,Fake,Chittagong,GPE,Locations
+1886,Fake,Chittagong,GPE,Locations
+1891,Fake,Chittagong,GPE,Locations
+1896,Fake,the moon Doctors,ORG,Organizations
+1897,Real,Chittagong,GPE,Locations
+1898,Fake,Local,ORG,Organizations
+1900,Fake,Bangladesh,GPE,Locations
+1901,Fake,Chittagong,GPE,Locations
+1902,Real,Bangladesh,GPE,Locations
+1903,Fake,Dhaka Doctors,ORG,Organizations
+1904,Fake,Chittagong,GPE,Locations
+1906,Real,Bangladesh,GPE,Locations
+1907,Fake,Breakthrough,PERSON,People
+1907,Fake,Bangladesh,GPE,Locations
+1908,Real,Breakthrough,PERSON,People
+1908,Real,Bangladesh,GPE,Locations
+1911,Real,Local,ORG,Organizations
+1912,Real,Bangladesh,GPE,Locations
+1916,Real,Dhaka,GPE,Locations
+1917,Real,the moon Uncertainty,LOC,Locations
+1920,Fake,Chittagong,GPE,Locations
+1920,Fake,Uncertainty,ORG,Organizations
+1923,Real,Bangladesh,GPE,Locations
+1924,Real,Breakthrough,PERSON,People
+1924,Real,Bangladesh,GPE,Locations
+1926,Real,Chittagong,GPE,Locations
+1929,Fake,Breakthrough,PERSON,People
+1929,Fake,Bangladesh,GPE,Locations
+1931,Fake,Bangladesh,GPE,Locations
+1933,Real,Bangladesh,GPE,Locations
+1935,Real,the moon Uncertainty,LOC,Locations
+1936,Real,Dhaka,GPE,Locations
+1938,Real,Bangladesh,GPE,Locations
+1941,Fake,Breakthrough,PERSON,People
+1941,Fake,Bangladesh,GPE,Locations
+1943,Real,Breakthrough,PERSON,People
+1943,Real,Bangladesh,GPE,Locations
+1944,Real,Chittagong,GPE,Locations
+1945,Real,Breakthrough,PERSON,People
+1945,Real,Bangladesh,GPE,Locations
+1948,Fake,Bangladesh,GPE,Locations
+1950,Real,Bangladesh,GPE,Locations
+1951,Real,Bangladesh,GPE,Locations
+1956,Fake,Breakthrough,PERSON,People
+1956,Fake,Bangladesh,GPE,Locations
+1961,Real,Chittagong,GPE,Locations
+1962,Fake,Chittagong,GPE,Locations
+1962,Fake,Uncertainty,ORG,Organizations
+1964,Fake,Bangladesh,GPE,Locations
+1965,Fake,Dhaka,GPE,Locations
+1966,Fake,Breakthrough,PERSON,People
+1966,Fake,Bangladesh,GPE,Locations
+1969,Fake,Local,ORG,Organizations
+1973,Fake,Dhaka Incidents,ORG,Organizations
+1976,Real,Breakthrough,PERSON,People
+1976,Real,Bangladesh,GPE,Locations
+1980,Fake,Chittagong,GPE,Locations
+1981,Real,Bangladesh,GPE,Locations
+1982,Real,Chittagong,GPE,Locations
+1984,Fake,the moon Doctors,ORG,Organizations
+1986,Fake,the moon Government,ORG,Organizations
+1988,Fake,Chittagong,GPE,Locations
+1989,Fake,Bangladesh,GPE,Locations
+1990,Fake,Local,ORG,Organizations
+1991,Real,Chittagong,GPE,Locations
+1994,Fake,the moon Local,ORG,Organizations
+1995,Real,Bangladesh,GPE,Locations
+1997,Fake,Dhaka Doctors,ORG,Organizations
+1998,Real,Breakthrough,PERSON,People
+1998,Real,Bangladesh,GPE,Locations
+2000,Fake,the moon Government,ORG,Organizations
+2003,Fake,Bangladesh,GPE,Locations
+2004,Real,Breakthrough,PERSON,People
+2004,Real,Bangladesh,GPE,Locations
+2005,Fake,Chittagong,GPE,Locations
+2006,Fake,Bangladesh,GPE,Locations
+2008,Real,Dhaka Incidents,ORG,Organizations
+2011,Fake,Bangladesh,GPE,Locations
+2014,Fake,Dhaka,GPE,Locations
+2015,Real,the moon Doctors,ORG,Organizations
+2017,Real,Bangladesh,GPE,Locations
+2018,Real,the moon Local,ORG,Organizations
+2023,Real,Breakthrough,PERSON,People
+2023,Real,Bangladesh,GPE,Locations
+2024,Real,Chittagong,GPE,Locations
+2025,Fake,Uncertainty,ORG,Organizations
+2028,Fake,Breakthrough,PERSON,People
+2028,Fake,Bangladesh,GPE,Locations
+2032,Real,Bangladesh,GPE,Locations
+2033,Real,Dhaka,GPE,Locations
+2034,Real,Bangladesh,GPE,Locations
+2036,Real,Dhaka,GPE,Locations
+2037,Real,Chittagong,GPE,Locations
+2038,Fake,the moon Local,ORG,Organizations
+2039,Fake,Bangladesh,GPE,Locations
+2044,Fake,Bangladesh,GPE,Locations
+2045,Fake,Bangladesh,GPE,Locations
+2046,Fake,Bangladesh,GPE,Locations
+2047,Fake,Dhaka,GPE,Locations
+2048,Real,the moon Uncertainty,LOC,Locations
+2050,Real,Chittagong,GPE,Locations
+2051,Real,Chittagong,GPE,Locations
+2053,Real,Chittagong,GPE,Locations
+2053,Real,Uncertainty,ORG,Organizations
+2056,Fake,Chittagong,GPE,Locations
+2058,Fake,Dhaka,GPE,Locations
+2062,Real,Bangladesh,GPE,Locations
+2071,Fake,Dhaka Uncertainty,ORG,Organizations
+2075,Real,Bangladesh,GPE,Locations
+2079,Fake,Dhaka,GPE,Locations
+2083,Real,Dhaka Government,ORG,Organizations
+2084,Real,Chittagong,GPE,Locations
+2085,Fake,Bangladesh,GPE,Locations
+2089,Fake,Dhaka Uncertainty,ORG,Organizations
+2091,Fake,Chittagong,GPE,Locations
+2092,Fake,Chittagong,GPE,Locations
+2095,Fake,the moon Local,ORG,Organizations
+2096,Real,Dhaka,GPE,Locations
+2097,Fake,Dhaka,GPE,Locations
+2098,Real,Local,ORG,Organizations
+2099,Fake,Bangladesh,GPE,Locations
+2101,Fake,Breakthrough,PERSON,People
+2101,Fake,Bangladesh,GPE,Locations
+2102,Real,Dhaka,GPE,Locations
+2105,Fake,Chittagong,GPE,Locations
+2108,Fake,Bangladesh,GPE,Locations
+2110,Fake,Dhaka Incidents,ORG,Organizations
+2112,Fake,Bangladesh,GPE,Locations
+2114,Real,the moon Government,ORG,Organizations
+2116,Fake,Bangladesh,GPE,Locations
+2119,Fake,Breakthrough,PERSON,People
+2119,Fake,Bangladesh,GPE,Locations
+2121,Real,Breakthrough,PERSON,People
+2121,Real,Bangladesh,GPE,Locations
+2123,Real,Chittagong,GPE,Locations
+2125,Fake,the moon Local,ORG,Organizations
+2126,Fake,Breakthrough,PERSON,People
+2126,Fake,Bangladesh,GPE,Locations
+2127,Real,Breakthrough,PERSON,People
+2127,Real,Bangladesh,GPE,Locations
+2128,Fake,the moon Government,ORG,Organizations
+2129,Real,Breakthrough,PERSON,People
+2129,Real,Bangladesh,GPE,Locations
+2131,Fake,Breakthrough,PERSON,People
+2131,Fake,Bangladesh,GPE,Locations
+2133,Real,Breakthrough,PERSON,People
+2133,Real,Bangladesh,GPE,Locations
+2138,Fake,Dhaka Uncertainty,ORG,Organizations
+2142,Real,Chittagong,GPE,Locations
+2145,Real,the moon Doctors,ORG,Organizations
+2148,Fake,Breakthrough,PERSON,People
+2148,Fake,Bangladesh,GPE,Locations
+2152,Real,Dhaka Doctors,ORG,Organizations
+2153,Fake,the moon Government,ORG,Organizations
+2155,Real,Chittagong,GPE,Locations
+2156,Real,Breakthrough,PERSON,People
+2156,Real,Bangladesh,GPE,Locations
+2159,Fake,Chittagong,GPE,Locations
+2160,Real,Bangladesh,GPE,Locations
+2163,Real,Bangladesh,GPE,Locations
+2164,Real,Chittagong,GPE,Locations
+2165,Fake,Bangladesh,GPE,Locations
+2170,Real,Breakthrough,PERSON,People
+2170,Real,Bangladesh,GPE,Locations
+2172,Fake,Dhaka Government,ORG,Organizations
+2173,Real,Bangladesh,GPE,Locations
+2174,Fake,Breakthrough,PERSON,People
+2174,Fake,Bangladesh,GPE,Locations
+2175,Fake,Dhaka Government,ORG,Organizations
+2176,Real,Breakthrough,PERSON,People
+2176,Real,Bangladesh,GPE,Locations
+2177,Real,Dhaka,GPE,Locations
+2181,Real,Bangladesh,GPE,Locations
+2183,Fake,the moon Uncertainty,LOC,Locations
+2184,Fake,Bangladesh,GPE,Locations
+2187,Fake,Dhaka Uncertainty,ORG,Organizations
+2188,Fake,Breakthrough,PERSON,People
+2188,Fake,Bangladesh,GPE,Locations
+2189,Real,Breakthrough,PERSON,People
+2189,Real,Bangladesh,GPE,Locations
+2192,Fake,Breakthrough,PERSON,People
+2192,Fake,Bangladesh,GPE,Locations
+2194,Fake,Chittagong,GPE,Locations
+2195,Fake,Bangladesh,GPE,Locations
+2196,Real,Chittagong,GPE,Locations
+2197,Real,Bangladesh,GPE,Locations
+2198,Real,Bangladesh,GPE,Locations
+2205,Fake,Dhaka Experts,ORG,Organizations
+2206,Real,Bangladesh,GPE,Locations
+2207,Real,Bangladesh,GPE,Locations
+2208,Real,Bangladesh,GPE,Locations
+2212,Real,Dhaka,GPE,Locations
